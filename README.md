@@ -241,19 +241,19 @@ Finished.
   
     - Bearer: 
 
-       ```
-           eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNjQwNzE4ODgzLCJleHAiOjE2NDA
-           4OTE2ODMsInN1YiI6ImE3OTYxY2I5LTk0NDItNDdkNC04NmQ1LWIyYmIzYmQ5MDRhOCJ9.5IXoH_GQKWNQF4YE8CXZ6a1f4GiUFcW-zL-xtuF_7s4
-       ```
+     ```
+         eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNjQwNzE4ODgzLCJleHAiOjE2NDA
+         4OTE2ODMsInN1YiI6ImE3OTYxY2I5LTk0NDItNDdkNC04NmQ1LWIyYmIzYmQ5MDRhOCJ9.5IXoH_GQKWNQF4YE8CXZ6a1f4GiUFcW-zL-xtuF_7s4
+     ```
 
      - Body: 
 
-       ```json
-         {
-            "username": "Mariana Fanaro",
-            "password": "1234"
-         }
-       ```
+     ```json
+       {
+          "username": "Mariana Fanaro",
+          "password": "1234"
+       }
+     ```
      - Response: 
 
       ```json
@@ -268,16 +268,16 @@ Finished.
   
     - Bearer: 
 
-       ```
-           eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNjQwNzE4ODgzLCJleHAiOjE2NDA
-           4OTE2ODMsInN1YiI6ImE3OTYxY2I5LTk0NDItNDdkNC04NmQ1LWIyYmIzYmQ5MDRhOCJ9.5IXoH_GQKWNQF4YE8CXZ6a1f4GiUFcW-zL-xtuF_7s4
-       ```
+     ```
+         eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNjQwNzE4ODgzLCJleHAiOjE2NDA
+         4OTE2ODMsInN1YiI6ImE3OTYxY2I5LTk0NDItNDdkNC04NmQ1LWIyYmIzYmQ5MDRhOCJ9.5IXoH_GQKWNQF4YE8CXZ6a1f4GiUFcW-zL-xtuF_7s4
+     ```
      
      - Response: 
 
-        ```
-         OK
-       ```
+      ```
+       OK
+     ```
    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
