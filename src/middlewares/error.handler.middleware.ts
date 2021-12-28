@@ -4,6 +4,7 @@ import DatabaseError from "../models/errors/database.error.model";
 import ForbiddenError from "../models/errors/forbidden.error.mode";
 
 function errorHandler(error:any, req:Request,res:Response,next: NextFunction){
+    console.log(error)
     if (error instanceof DatabaseError) res.sendStatus(StatusCodes.BAD_REQUEST)
 
     if (error instanceof ForbiddenError) res.sendStatus(StatusCodes.FORBIDDEN)
